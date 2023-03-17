@@ -1,4 +1,5 @@
 # ChimmywLofiPlaylist
->Second Music Player but this time, I make Lofi Version with Different Style and base on React
+>This is my attempt ruining this :))
 
 *Removed and Replaced some songs that sound terrible (my opinion) :/
+*Fuck your song list anyway :))
